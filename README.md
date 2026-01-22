@@ -2,7 +2,7 @@
 
 为保证阅读良好的效果，建议先阅读 README，再以复赛 PDF 作为主要浏览目标( GitHub 上 PDF 可在线浏览)。也为了方便您浏览，文件夹首页和复赛文件夹我都上传了复赛内容，择一浏览即可。
 
-项目工程代码存放在 Time-Series-Library-main 文件夹中。
+项目工程代码存放在 Time-Series-Library-main 文件夹中供参阅。
 
 ## 成果速览
 
