@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 首先，运行 init_db.py 来初始化数据库 📂，然后，运行 main.py，大功告成！🎉
 
-## 看见趋势，而不是追逐热度
+## 看见趋势，而不是追逐热度！
 
 本项目构建的时序集成框架图
 
